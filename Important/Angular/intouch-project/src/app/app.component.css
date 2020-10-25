@@ -1,0 +1,19 @@
+.contact-list{
+   
+  display: flex;
+  flex-direction: row;
+
+  background-color: #dadbd3;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    flex: 0.35;
+    margin-left: 20vh;
+}
+.create-contact{
+    display: flex;
+    flex-direction: column;
+    flex: 0.65;
+    margin-left: 20vh;
+}
